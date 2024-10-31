@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: "Website Launch Checklist"
+    description: "Checklist to complete before launching a website"
+    labels: ["launch checklist", "QA"]
+    assignees: ["your-username"]
+    body: "Use this checklist to verify readiness before launch."
+    path: "ISSUE_TEMPLATE/website_launch_checklist.md"
