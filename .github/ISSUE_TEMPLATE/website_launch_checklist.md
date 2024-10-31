@@ -1,3 +1,4 @@
+- [ ] run "npm run build" to check no build errors
 - [ ] Test on multiple devices
 - [ ] Test on multiple browsers
 - [ ] Test all links
