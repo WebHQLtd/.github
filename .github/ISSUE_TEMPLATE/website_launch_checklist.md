@@ -8,6 +8,7 @@
 ## 2. Code & Component Standards
 - [ ] **CSS Conventions**: Use **dash format** for CSS classes (e.g., `bright-text`) and **camelCase** for IDs (e.g., `videoSection`).
 - [ ] **Column Widths**: Set column widths using `md={}` instead of classnames.
+- [ ] **Imports**: Make sure to remove any unused imports.
 - [ ] **Reusable Components**: Modularize any elements used more than once as components.
 - [ ] **Layout Components**: Create a `components` folder with **Header** and **Footer** components.
 - [ ] **Layout Integration**: Import Header and Footer into `layout` and place them above and below `{children}`.
